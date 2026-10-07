@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vanguri Abraham
 
-### 🎓 B.Tech Student | Aspiring Software Developer
+### 🎓 B.Tech Student 
 
 - 💻 Learning Java and Data Structures & Algorithms
 - 🚀 Solving problems on LeetCode
